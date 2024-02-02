@@ -1,4 +1,4 @@
-#Ignore node_moudles directory 
+# Ignore node_moudles directory 
 node_moudles/
-
+.env
 #Other entries...
